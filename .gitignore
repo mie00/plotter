@@ -1,0 +1,6 @@
+bin/
+cr.sh
+cr.cmd
+*~
+*.swp
+*.swo
