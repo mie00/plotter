@@ -1,5 +1,4 @@
-# plotter
----
+# Plotter
 
 A java library to plot mathemetical expressions with variables.
 
@@ -30,5 +29,5 @@ Please see the LICENSE file.
 
 ## Contacts
 
-feel free to contact me at `mielawadi@gmail.com`.
+Feel free to contact me at `mielawadi@gmail.com`.
 
