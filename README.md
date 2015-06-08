@@ -1,7 +1,7 @@
 # plotter
 ---
 
-A java library to plot mathemetical expressions with variables
+A java library to plot mathemetical expressions with variables.
 
 ## Usage
 
@@ -24,11 +24,11 @@ make
 
 `make run`
 
-## Licence
+## Licensing
 
-this project is licenced under GPL
+Please see the LICENSE file.
 
 ## Contacts
 
-feel free to contact me at `mielawadi@gmail.com`
+feel free to contact me at `mielawadi@gmail.com`.
 
